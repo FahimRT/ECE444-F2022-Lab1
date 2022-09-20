@@ -1,2 +1,1 @@
-print(f"Hello World")
-print(f"Fahim")
+print(f"Hello WorldFahim")
