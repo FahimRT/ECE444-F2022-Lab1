@@ -12,10 +12,24 @@ Fahim
 #Act 3
 ![Image 2022-09-21 at 5 41 PM](https://user-images.githubusercontent.com/50860386/191616801-f3e9a1d3-3c49-4d57-89d9-e3bfbf8cadab.jpg)
 #Act 4 
+
 #Image 1 - Partner's Commit 
+
 <img width="628" alt="image" src="https://user-images.githubusercontent.com/50860386/191620626-1427e365-1fe3-495a-8009-a47de2e43e35.png">
+
 #image 2 - My Commit 
+
 ![image](https://user-images.githubusercontent.com/50860386/191620731-78a46e50-cd92-4295-8b61-302a2fae7b83.png)
 
-#Act 5 
+#Act 5
+
+#Image 1 - Commits
+
+<img width="628" alt="image" src="https://user-images.githubusercontent.com/50860386/191634249-70273b85-85a7-494b-82fe-d0f1fe695df4.png">
+
+#Image 2 - Final Rebase (w/ Origin) and Develop Pushes
+
+<img width="628" alt="image" src="https://user-images.githubusercontent.com/50860386/191634443-fc0999ab-eea8-4872-8358-c8fab548b803.png">
+
+#Act 6 
 Link to EP Repo: https://github.com/FahimRT/ECE444-F2022-EP 
