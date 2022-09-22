@@ -33,3 +33,6 @@ Fahim
 
 #Act 6 
 Link to EP Repo: https://github.com/FahimRT/ECE444-F2022-EP 
+
+#Act 7
+![Screenshot of activity 7 merge](activity7.png)
