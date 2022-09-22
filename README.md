@@ -36,3 +36,7 @@ Link to EP Repo: https://github.com/FahimRT/ECE444-F2022-EP
 
 #Act 7
 ![Screenshot of activity 7 merge](activity7.png)
+
+#Act 8
+![Screenshot of activity 8 rebase](activity8b.png)
+![Screenshot of new tab page](activity8a.png)
